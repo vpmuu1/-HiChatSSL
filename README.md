@@ -1,6 +1,6 @@
 HiChat
 ===
-fork from https://github.com/wayou/HiChat
+forked from https://github.com/wayou/HiChat
 using SSL.
 https://ip_or_namd:3000
 
